@@ -1,0 +1,31 @@
+{
+"1" : {
+  "full-name": "Musa Mohammed",
+  "Slack Username": "@ammed",
+  "Track": "Backend",
+  "Email": "juniorbuba4real@gmail.com",
+  "points": 2
+  },
+
+"2" :{
+  "full-name": "Mohammed Shuaib",
+  "Slack Username": "@Shoo_shoo",
+  "Track": "Backend",
+  "Email": "shoo_shoo@gmail.com",
+  "points": 8
+  },
+"3" :{
+  "full-name": "Mohammed Shuaib",
+  "Slack Username": "@Shoo_shoo",
+  "Track": "Backend",
+  "Email": "shoo_shoo@gmail.com",
+  "points": 5
+  },
+"4" :{
+  "full-name": "Mohammed Shuaib",
+  "Slack Username": "@Shoo_shoo",
+  "Track": "Backend",
+  "Email": "shoo_shoo@gmail.com",
+  "points": 10
+  }
+}
